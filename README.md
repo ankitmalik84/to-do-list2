@@ -27,5 +27,5 @@
 
 [Gmail]: mailto:ankitmalik844903@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/ankitmalik84
-[Twitter]: https://twitter.com/ankitmalik
+[Twitter]: https://twitter.com/ankitmalik84
 [here]: https://ankitmalik84.github.io/to-do-list2/
